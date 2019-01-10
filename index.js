@@ -12,10 +12,10 @@ function shout(string) {
  }
  function sayHiToGrandma(string) {
    if (string.toLowerCase() === string {
-     return "I can't hear you"
+     return "I can't hear you!"
    }
    if (string.toUpperCase() === "I CAN'T HEAR YOU") {
-     return "YES INDEED"
+     return "YES INDEED!"
    }
    if (string === "I love you too, Grandma.") {
     return "I love you, too."
